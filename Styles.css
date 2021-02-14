@@ -1,0 +1,8 @@
+html{
+    scroll-behavior: smooth;
+    background-image: url("dragon.gif");
+    background-repeat: no-repeat;
+  background-size: auto;
+  background-attachment: fixed;
+  background-position: center;
+}
