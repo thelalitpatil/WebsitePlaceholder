@@ -2,7 +2,7 @@ html{
     scroll-behavior: smooth;
     background-image: url("placeholder.gif");
     background-repeat: no-repeat;
-  background-size: cover;
+  background-size: auto;
   background-attachment: fixed;
   background-position: center;
 }
